@@ -1,5 +1,6 @@
-spring:
-  security:
-    user:
-      name: user
-      password: password
+# Commented since the default configuration is done in SecurityConfigurer class
+#spring:
+#  security:
+#    user:
+#      name: user
+#      password: password
